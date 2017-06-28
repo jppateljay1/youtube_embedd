@@ -1,7 +1,7 @@
 'use strict';
 
 import React, { Component } from 'react';
-import { View, WebView } from 'react-native';
+import { WebView } from 'react-native';
 
 class Youtube extends Component{
   constructor(props){
