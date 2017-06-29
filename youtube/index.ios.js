@@ -11,7 +11,9 @@ import Youtube from './app/js/Youtube'
 
 export default class youtube extends Component {
   render() {
-    return (<Youtube url={'HYMNRiwp3jQ'} />);
+    return (
+      <Youtube url={'1FT6VOrFMLo'}/>
+    )
   }
 }
 
